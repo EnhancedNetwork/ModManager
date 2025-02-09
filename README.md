@@ -3,19 +3,19 @@
 	<a href="https://www.curseforge.com/among-us/all-mods/mod-manager"><img alt="Curseforge Downloads" src="https://cf.way2muchnoise.eu/full_494578_downloads.svg"></a>
 </p>
 
-# Mod Manager is no longer maintained!
+# Mod Manager is now owned by The Enhanced Network
 
 # Mod Manager
 Among Us Mod Manager is an open-source launcher for the popular game Among Us. It allows you to switch between many established mods with only a few clicks!
 
-Join the discord: https://goodloss.fr/discord \
-Official website: https://goodloss.fr
+Join the discord: https://weareten.ca/discord \
+Official website: https://mm.weareten.ca/
 
 ![ModManager_7](https://amodsus.com/attachments/modmanager7-png.27601/)
 
 ## How to install?
 
-1. Download the latest version available [here](https://goodloss.fr/latest).
+1. Download the latest version available [here](https://mm.weareten.ca/latest).
 
 3. Launch the installer and choose a location for the software. (You should not select your Among Us directory!)
 
@@ -23,11 +23,11 @@ Official website: https://goodloss.fr
 
 ## How to use it?
 
-- Launch Mod Manager from windows (use the shortcut or the search bar).
+- Launch Mod Manager from Windows (use the shortcut or the search bar).
 
 - A window will open.
 
-- Choose a mod and download it by using the download button on the left side.
+- Choose a mod and download it using the button on the left.
 
 - Once done, start a mod by clicking the launch button, which replaced the download button.
 
@@ -39,7 +39,7 @@ Publish a release in a public GitHub repository for your mod. In this release, y
 
 - The .dll file of the mod
 
-- A .zip with of the Among Us modded directory
+- A .zip with the Among Us modded directory
 
 Then, join the [discord](https://goodloss.fr/discord) and send your repository link. It will be a pleasure adding your mod. :)
 
@@ -48,10 +48,10 @@ Then, join the [discord](https://goodloss.fr/discord) and send your repository l
 [BepInEx](https://github.com/NuclearPowered/BepInEx) - The main dependency of every mod\
 [Reactor](https://github.com/NuclearPowered/Reactor) - The most used modding API for Among Us
 
-Thanks to every mod creator. Go check their respective GitHub repositories directly in Mod Manager!
+Thanks to every mod creator. Check their respective GitHub repositories directly in Mod Manager!
 
-If your mod is on Mod Manager and you do not want me to include it, just send me a message in a GitHub issue or in discord DM. I will remove them without asking any question.
+If your mod is on Mod Manager and you do not want me to include it, send me a message in a GitHub issue or Discord DM. I will remove them without asking any questions.
 
 ## License
 
-This software is distributed under the GNU GPLv3 License. BepInEx is distributed under LGPL-3.0 License.
+This software is distributed under the GNU GPLv3 License. BepInEx is distributed under the LGPL-3.0 License.
